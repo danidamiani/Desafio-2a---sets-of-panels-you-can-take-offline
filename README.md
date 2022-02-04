@@ -1,4 +1,4 @@
-# Desafio-2-sets-of-panels-you-can-take-offline
+# Desafio-2---sets-of-panels-you-can-take-offline
 You need to figure out which sets of panels in any given array you can take offline to repair while still maintaining the maximum amount of power output per array, and to do THAT, you'll first need to figure out what the maximum output of each array actually is
 
 Power Hungry
@@ -15,12 +15,6 @@ Your code should pass the following test cases.
 Note that it may also be run against hidden test cases not shown here.
 
 -- Python cases --
-Input:
-solution.solution([2, 0, 2, 2, 0])
-Output:
-    8
+Input: solution.solution([2, 0, 2, 2, 0]) Output: 8
 
-Input:
-solution.solution([-2, -3, 4, -5])
-Output:
-    60
+Input: solution.solution([-2, -3, 4, -5]) Output: 60
